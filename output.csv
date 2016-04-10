@@ -1,0 +1,205 @@
+[
+  {
+    "ppn": "000300896",
+    "exemplar": "123945",
+    "signatur": "535.6 WYS",
+    "barcode": "HC251 6",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343145",
+    "exemplar": "111179",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT227 3",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343153",
+    "exemplar": "111180",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT228 8",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343161",
+    "exemplar": "111181",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT229 2",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00034317X",
+    "exemplar": "111182",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT230 5",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343188",
+    "exemplar": "111183",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT231 X",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343196",
+    "exemplar": "111184",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT232 4",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00034320X",
+    "exemplar": "111185",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT233 9",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343218",
+    "exemplar": "111186",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT234 3",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343226",
+    "exemplar": "111187",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT235 8",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343234",
+    "exemplar": "111188",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT236 2",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343242",
+    "exemplar": "111189",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT237 7",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343250",
+    "exemplar": "111190",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT238 1",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000343269",
+    "exemplar": "111191",
+    "signatur": "03 ALLG BRO",
+    "barcode": "HT239 6",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000469971",
+    "exemplar": "295",
+    "signatur": "93 HIS",
+    "barcode": "HT135 5",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00046998X",
+    "exemplar": "296",
+    "signatur": "93 HIS",
+    "barcode": "HT136 X",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000469998",
+    "exemplar": "297",
+    "signatur": "93 HIS",
+    "barcode": "HT137 4",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470007",
+    "exemplar": "298",
+    "signatur": "93 HIS",
+    "barcode": "HT138 9",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470015",
+    "exemplar": "299",
+    "signatur": "93 HIS",
+    "barcode": "HT139 3",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470023",
+    "exemplar": "300",
+    "signatur": "93 HIS",
+    "barcode": "HT140 6",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470031",
+    "exemplar": "301",
+    "signatur": "93 HIS",
+    "barcode": "HT141 0",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00047004X",
+    "exemplar": "302",
+    "signatur": "93 HIS",
+    "barcode": "HT142 5",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470058",
+    "exemplar": "303",
+    "signatur": "93 HIS",
+    "barcode": "HT143 X",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000470066",
+    "exemplar": "304",
+    "signatur": "93 HIS",
+    "barcode": "HT144 4",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000472603",
+    "exemplar": "305",
+    "signatur": "93 PRO",
+    "barcode": "HT145 9",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000472611",
+    "exemplar": "306",
+    "signatur": "93 PRO",
+    "barcode": "HT146 3",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "000472611",
+    "exemplar": "306",
+    "signatur": "93 PRO",
+    "barcode": "HT146 3",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00047262X",
+    "exemplar": "307",
+    "signatur": "93 PRO",
+    "barcode": "HT147 8",
+    "sigel": "HN"
+  },
+  {
+    "ppn": "00047262X",
+    "exemplar": "307",
+    "signatur": "93 PRO",
+    "barcode": "HT147 8",
+    "sigel": "HN"
+  }
+]
